@@ -6,6 +6,8 @@ The LLVM-MOS compiler toolchain and platform libraries.
 
 ## Supported platforms
 
+- [Apple II](https://en.wikipedia.org/wiki/Apple_II)
+  - [Apple ProDOS](https://en.wikipedia.org/wiki/Apple_ProDOS)
 - [Atari 2600](https://en.wikipedia.org/wiki/Atari_2600)
   - 4K cartridge
   - [TigerVision 3E (2-KiB fixed, 2-KiB banked ROM or RAM)](https://www.taswegian.com/WoodgrainWizard/tiki-index.php?page=3E)
